@@ -1,2 +1,2 @@
 # phaser-multiplayer-game
-placeholder
+This was a test for me to learn how Phaser and Electron work.
