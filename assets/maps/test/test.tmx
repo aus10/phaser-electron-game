@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="48" tileheight="48" nextobjectid="1">
+ <tileset firstgid="1" name="tilesheet" tilewidth="48" tileheight="48" tilecount="1960" columns="20">
+  <image source="../../images/bq/tilesheet.png" width="960" height="4704"/>
+ </tileset>
+ <layer name="Background" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzN0ldOAzEQgOHBQEJLodcX4BIcgvtHYvcICBsQvf5oY2WYHYcI8cBKn1zG9nhti/zv7yKIVKjD7+u67woRCde4wa3T3yN3HwOZzNVlrs867pj4CU5lkieqeD3uK43LZa7bXLVZJzlxb2xJUmV08qXCWFu3qvD9XLx2HdrnV4X2/itnfpzSnpbX21ueb+/Jyx8LuXIsBf8/kslfuiu7B6+uz997C7O07b8nZ4zujyau2/Z87XtOzjo2pt/7mbTvz55RHltaJ8fPpXHXadzjAY94wjNe8Io3vOMD0hWZQ8A8FrCIDrpYHlvBKtbQQx8DDLGODWxiC9vYwS72sI8DHGIJo9CUJZc/xLWjP/S1r0/8lwM1
+  </data>
+ </layer>
+ <layer name="Walls" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzty9kNglAQheFJtEZQlgZAWRoAXGjAImyA5YEGEFpQqcX/5SY399nHOcmXnJzJPPYiPrqdSI8D/YgAISLE1n3ACM/5M/uTLcVMf+FEPyNDjgKldV+wInH+zD6x1XjTP2joF1xxwx2tdf9iQ+X8mV2j0Wg0/8kPV/Ulww==
+  </data>
+ </layer>
+</map>
